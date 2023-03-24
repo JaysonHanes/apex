@@ -21,7 +21,7 @@ level.
 
     ```
     <copy>
-        .user-has-liked {
+    .user-has-liked {
         color: red;
     }
 
