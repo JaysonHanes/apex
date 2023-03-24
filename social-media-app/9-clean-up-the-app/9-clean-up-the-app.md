@@ -22,7 +22,7 @@ level.
     ```
     <copy>
         .user-has-liked {
-    color: red;
+        color: red;
     }
 
     @media (max-width: 640px) {
